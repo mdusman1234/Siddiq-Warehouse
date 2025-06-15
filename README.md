@@ -1,1 +1,1 @@
-# diq-Warehouse
+# SDIQ-Warehouse
